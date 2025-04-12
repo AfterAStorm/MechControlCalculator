@@ -1,5 +1,7 @@
 # Mech Control Calculator #
 
+![Screenshot Example](https://raw.githubusercontent.com/AfterAStorm/MechControlCalculator/refs/heads/master/media/screenshot1.png)
+
 ## How to use ##
 
 Download the repository or ``git clone https://github.com/AfterAStorm/MechControlCalculator.git``
