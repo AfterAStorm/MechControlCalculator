@@ -1,6 +1,6 @@
 # Mech Control Calculator #
 
-![Screenshot Example](https://raw.githubusercontent.com/AfterAStorm/MechControlCalculator/refs/heads/master/media/screenshot1.png)
+![Screenshot Example](https://raw.githubusercontent.com/AfterAStorm/MechControlCalculator/refs/heads/main/media/screenshot1.png)
 
 ## How to use ##
 
